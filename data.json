@@ -1,15 +1,7 @@
 [
     {
         "username": "admin",
-        "message": "fads"
-    },
-    {
-        "username": "admin",
-        "message": "Rizz?\n"
-    },
-    {
-        "username": "admin",
-        "message": "Hi"
+        "message": "hi"
     },
     {
         "username": "admin",
@@ -37,6 +29,6 @@
     },
     {
         "username": "bob",
-        "message": "Just joined. Let\u00e2\u20ac\u2122s tweet!"
+        "message": "Just joined. Let's tweet!"
     }
 ]
